@@ -68,3 +68,5 @@ bequal=customtkinter.CTkButton(root,text='=',font=('arial',20,'bold'),width=280,
 bequal.grid(row=5,column=0,columnspan=4,pady=10)
 
 root.mainloop()
+
+# garv
